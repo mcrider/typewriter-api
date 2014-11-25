@@ -1,0 +1,33 @@
+{
+  "name": "vocabulary",
+  "plural": "vocabularies",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "properties": {
+    "label": {
+      "type": "string",
+      "required": true
+    },
+    "comment": {
+      "type": "string"
+    },
+    "properties": {
+      "type": [
+        "object"
+      ]
+    },
+    "parents": {
+      "type": [
+        "string"
+      ]
+    },
+    "vocab": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}
