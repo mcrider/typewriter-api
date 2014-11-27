@@ -29,5 +29,9 @@
   "vocabulary": {
     "dataSource": "db",
     "public": true
+  },
+  "type": {
+    "dataSource": "db",
+    "public": true
   }
 }
