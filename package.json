@@ -17,7 +17,8 @@
     "request": "latest",
     "cheerio": "latest",
     "mongoose-schema-extend": "latest",
-    "mustache": "latest"
+    "mustache": "latest",
+    "loopback-connector-mongodb": "^1.4.5"
   },
   "optionalDependencies": {
     "loopback-explorer": "^1.1.0"
