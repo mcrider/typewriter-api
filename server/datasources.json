@@ -1,9 +1,9 @@
 {
   "db": {
-    "name": "typewriter",
-    "connector": "mongodb",
     "host": "127.0.0.1",
+    "port": 27017,
     "database": "typewriter",
-    "port": 27017
+    "name": "db",
+    "connector": "mongodb"
   }
 }
